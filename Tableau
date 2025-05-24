@@ -1,0 +1,53 @@
+Tableau Project and Creator Profile: [Cassidy Halpin Tableau Public](https://public.tableau.com/app/profile/cassidy.halpin7880/vizzes)
+
+# Tableau Sales & Customer Dashboard Project
+
+## Project Background
+
+This project aims to develop a dynamic sales and customer dashboard using Tableau, providing stakeholders with actionable insights into sales performance, customer behavior, and product trends. The dashboard is designed to facilitate data-driven decision-making by presenting key metrics and visualizations in an interactive format.
+
+## Business Objectives
+
+- **Enhance Sales Visibility**: Provide real-time insights into sales performance across different regions and products.
+- **Understand Customer Behavior**: Analyze customer purchasing patterns to identify opportunities for upselling and cross-selling.
+- **Monitor Product Performance**: Track product sales to determine high-performing and underperforming items.
+- **Improve Decision-Making**: Equip management with tools to make informed strategic decisions based on data trends.
+
+## Steps Taken to Meet Business Requirements
+
+1. **Data Acquisition & Preparation**
+   - Collected sales and customer data from internal databases.
+   - Cleaned and transformed data to ensure consistency and accuracy.
+   - Created calculated fields for key metrics such as profit margins and customer lifetime value.
+
+2. **Dashboard Design & Development**
+   - Designed intuitive layouts focusing on user experience and ease of navigation.
+   - Incorporated interactive elements like filters and drill-down capabilities.
+   - Ensured responsiveness across different devices and screen sizes.
+
+3. **Data Visualization**
+   - Utilized various chart types (bar charts, line graphs, heat maps) to represent data effectively.
+   - Highlighted key performance indicators (KPIs) for quick assessment.
+   - Implemented color-coding to signify performance thresholds.
+
+4. **Testing & Validation**
+   - Conducted thorough testing to ensure data accuracy and dashboard functionality.
+   - Gathered feedback from stakeholders and made necessary adjustments.
+
+5. **Deployment & Training**
+   - Published the dashboard to Tableau Server for organizational access.
+   - Provided training sessions to end-users to maximize dashboard utility.
+
+## Key Features
+
+- **Real-Time Data Updates**: Ensures stakeholders have access to the most current data.
+- **Interactive Filters**: Allows users to customize views based on specific criteria.
+- **Drill-Down Capabilities**: Enables in-depth analysis by exploring data hierarchies.
+- **Export Options**: Facilitates sharing insights through PDF and image exports.
+
+## 🔗 Resources
+
+- **Live Dashboard**: [Customer Dashboard](https://public.tableau.com/app/profile/cassidy.halpin7880/viz/SalesCustomerDashboardsDynamic_17481218911500/CustomerDashboard#1)
+- **Project Walkthrough Video**: [Tableau Complete Project End-to-End](https://youtu.be/dahrmqT5GD4?si=t8jVwJJdcqA3VhFS)
+
+---
